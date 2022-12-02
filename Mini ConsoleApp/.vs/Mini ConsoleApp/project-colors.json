@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44c0b2ca-6de1-4fc0-90b9-2bb4abc0ff8b": {
+      "ProjectGuid": "44c0b2ca-6de1-4fc0-90b9-2bb4abc0ff8b",
+      "DisplayName": "Mini ConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
